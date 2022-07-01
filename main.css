@@ -1,3 +1,14 @@
 body {
     font-family: sans-serif;
+    color: black;
+    background-color: lightgrey;
+}
+
+.hidden {
+    display: none;
+}
+
+#char-img {
+    height: 350px;
+    width: 350px;
 }
